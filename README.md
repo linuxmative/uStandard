@@ -91,7 +91,7 @@ The script will:
 
 ## 📦 Download Prebuilt ISO
 
-A prebuilt ISO is available under the [Releases section](https://github.com/linuxmative/uStandard-Custom-Ubuntu-Based-Live-ISO-Builder/releases).  
+A prebuilt ISO is available under the [Releases section](https://github.com/linuxmative/uStandard/releases).  
 You can test the live image on real hardware or in a virtual machine (e.g., VirtualBox or QEMU).    
 
 ----------
